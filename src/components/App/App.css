@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-image: url('background.png');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 100vh;}
+
+.App-header {
+  background-color: #f6c89f;
+  height: 70px;
+  padding: 20px;
+  color: #396362;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+
+.App-body {
+  background-color: #ffe7d1;
+  text-align: center;
+  background-image: url('background.png');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 100vh;
+}

@@ -1,0 +1,12 @@
+
+
+.eachPhoto {
+    border-radius: 4px;
+    border: solid #444 1px;
+    padding: 4px;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+
+}
+
